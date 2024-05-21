@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T09:21:35.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2LU6XJifLqfM-NVggaXh" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T09:24:03.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nwIaQaYXtCiEQFdX0ClN" version="24.4.4" type="github">
   <diagram name="Page-1" id="pgQvpXkHm_-C8_xM0yqf">
     <mxGraphModel dx="1271" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PeyvV1LcqQwgyuVZkg2Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PeyvV1LcqQwgyuVZkg2Z-2" target="PeyvV1LcqQwgyuVZkg2Z-4">
+        <mxCell id="PeyvV1LcqQwgyuVZkg2Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PeyvV1LcqQwgyuVZkg2Z-2" target="PeyvV1LcqQwgyuVZkg2Z-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeyvV1LcqQwgyuVZkg2Z-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/1024px-Streamlit-logo-primary-colormark-darktext.png;imageBorder=default;" vertex="1" parent="1">
@@ -39,6 +39,17 @@
         </mxCell>
         <mxCell id="PeyvV1LcqQwgyuVZkg2Z-14" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="361.27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PeyvV1LcqQwgyuVZkg2Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PeyvV1LcqQwgyuVZkg2Z-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeyvV1LcqQwgyuVZkg2Z-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png;imageBorder=default;" vertex="1" parent="1">
+          <mxGeometry x="266.9" y="510" width="135.52" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PeyvV1LcqQwgyuVZkg2Z-31" value="Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="408.73" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
