@@ -272,6 +272,12 @@
             <mxPoint x="490" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="if1NxrHObhTsh4fhzjl3-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/qrcode-128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="154" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="if1NxrHObhTsh4fhzjl3-14" value="QR Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="124" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
