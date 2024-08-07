@@ -50,7 +50,7 @@
           <mxGeometry x="404.5" y="208.5" width="72" height="81" as="geometry" />
         </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-18" value="Insert name-e-mail + &lt;br&gt;basic profile&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Pjy3FeyiMRUxahzW9iAM-7" vertex="1">
-          <mxGeometry x="601" y="160" width="130" height="40" as="geometry" />
+          <mxGeometry x="486" y="180" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Pjy3FeyiMRUxahzW9iAM-7" source="Pjy3FeyiMRUxahzW9iAM-20" target="Pjy3FeyiMRUxahzW9iAM-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -231,25 +231,6 @@
         </mxCell>
         <mxCell id="GgYd7F4fkAA2t6muYhwX-8" value="Platform&amp;nbsp;&lt;br&gt;Owners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1850" y="580" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GgYd7F4fkAA2t6muYhwX-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="325" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GgYd7F4fkAA2t6muYhwX-14" value="Coach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="50" y="403" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GgYd7F4fkAA2t6muYhwX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="371.38" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="235" y="371.38" />
-              <mxPoint x="235" y="371.38" />
-            </Array>
-            <mxPoint x="105" y="371.38" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GgYd7F4fkAA2t6muYhwX-18" value="Upload farmer profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110" y="373" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="if1NxrHObhTsh4fhzjl3-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/qrcode-128.png" parent="1" vertex="1">
           <mxGeometry x="417" y="160" width="58" height="58" as="geometry" />
