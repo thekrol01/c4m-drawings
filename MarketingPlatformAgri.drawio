@@ -191,10 +191,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="490" width="40" height="60" as="geometry" />
+          <mxGeometry x="285" y="505" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-26" value="Customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="265" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="265" y="566.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-28" value="Answer Survey" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="317" y="503.5" width="100" height="30" as="geometry" />
@@ -239,11 +239,11 @@
         <mxCell id="x71hhQw1BTaZVCnX9v6i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x71hhQw1BTaZVCnX9v6i-9" target="Pjy3FeyiMRUxahzW9iAM-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x71hhQw1BTaZVCnX9v6i-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="x71hhQw1BTaZVCnX9v6i-9" target="Pjy3FeyiMRUxahzW9iAM-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="x71hhQw1BTaZVCnX9v6i-9" value="Mail" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.mail;" vertex="1" parent="1">
           <mxGeometry x="417" y="503.5" width="99" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="x71hhQw1BTaZVCnX9v6i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pjy3FeyiMRUxahzW9iAM-25" target="x71hhQw1BTaZVCnX9v6i-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
