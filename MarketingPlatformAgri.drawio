@@ -296,7 +296,7 @@
           <mxGeometry x="895" y="428" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="haPTc5b58EqI_fG-wiht-25" value="Nieuwsbrief 1 t/m 4&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UPDATED check&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
-          <mxGeometry x="765" y="410" width="130" height="40" as="geometry" />
+          <mxGeometry x="775" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="haPTc5b58EqI_fG-wiht-26" value="Assembly Lambda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
           <mxGeometry x="874" y="506.5" width="120" height="30" as="geometry" />
