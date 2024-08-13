@@ -349,6 +349,12 @@
         <mxCell id="haPTc5b58EqI_fG-wiht-42" value="Newsletter-sections" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
           <mxGeometry x="994" y="300" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="haPTc5b58EqI_fG-wiht-43" value="S3::/ClientID/AgrarierID/&lt;br&gt;NieuwbriefSectie. 1t/m4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
+          <mxGeometry x="970" y="410" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haPTc5b58EqI_fG-wiht-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pjy3FeyiMRUxahzW9iAM-7" source="haPTc5b58EqI_fG-wiht-40" target="haPTc5b58EqI_fG-wiht-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="505" width="40" height="60" as="geometry" />
         </mxCell>
