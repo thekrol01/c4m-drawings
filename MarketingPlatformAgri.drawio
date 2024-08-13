@@ -309,6 +309,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="haPTc5b58EqI_fG-wiht-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pjy3FeyiMRUxahzW9iAM-7" source="if1NxrHObhTsh4fhzjl3-1" target="Pjy3FeyiMRUxahzW9iAM-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="151" y="142" />
+              <mxPoint x="151" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="505" width="40" height="60" as="geometry" />
         </mxCell>
@@ -327,7 +335,7 @@
         <mxCell id="if1NxrHObhTsh4fhzjl3-14" value="QR Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="411" y="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x71hhQw1BTaZVCnX9v6i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x71hhQw1BTaZVCnX9v6i-9" target="Pjy3FeyiMRUxahzW9iAM-20" edge="1">
+        <mxCell id="x71hhQw1BTaZVCnX9v6i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="x71hhQw1BTaZVCnX9v6i-9" target="if1NxrHObhTsh4fhzjl3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x71hhQw1BTaZVCnX9v6i-9" value="Mail" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.mail;" parent="1" vertex="1">
