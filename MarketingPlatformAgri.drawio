@@ -357,6 +357,19 @@
         <mxCell id="haPTc5b58EqI_fG-wiht-47" value="New Object Created Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
           <mxGeometry x="430" y="528" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="haPTc5b58EqI_fG-wiht-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pjy3FeyiMRUxahzW9iAM-7" source="Pjy3FeyiMRUxahzW9iAM-15" target="GgYd7F4fkAA2t6muYhwX-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="251" />
+              <mxPoint x="490" y="450" />
+              <mxPoint x="410" y="450" />
+              <mxPoint x="410" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haPTc5b58EqI_fG-wiht-49" value="read e-mail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pjy3FeyiMRUxahzW9iAM-7">
+          <mxGeometry x="411" y="458" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Pjy3FeyiMRUxahzW9iAM-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="505" width="40" height="60" as="geometry" />
         </mxCell>
